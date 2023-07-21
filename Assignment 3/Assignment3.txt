@@ -1,0 +1,9 @@
+Project Iteration 1
+
+Requirements:
+
+ 2 Create database with all tables
+ 6 Use OOP concepts and SOLID principles
+
+ 5 Create github repository for the project with all branches for each task (not mandatory)
+ 8 Upload your github link and make it clickable (not mandatory)
